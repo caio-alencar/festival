@@ -77,6 +77,11 @@ a:visited {
 
 }
 
+.header-content{ 
+      background-image: url("./image/por-do-sol.jpg");
+    
+}
+
 .header-content {
     min-height: 80vh;
     display: flex;
@@ -84,7 +89,6 @@ a:visited {
      gap: 1rem; /*declara duas propriedades para separar linhas*/
     flex-direction: column;
     text-align: center;
-    background-image: url("./image/por-do-sol.jpg");
     background-size: cover;
     background-position: center;
 }
