@@ -78,7 +78,7 @@ a:visited {
 }
 
 .header-content{ 
-      background-image: url('./image/por-do-sol.jpg');
+      background: url('/image/por-do-sol.jpg');
     
 }
 
