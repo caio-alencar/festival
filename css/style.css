@@ -299,7 +299,7 @@ a:visited {
 .valor {    
     padding-top: 7%;
     min-height: 90vh;
-    background: url("/home/caio/Documents/Learning/festival/image/por-black.jpg") no-repeat fixed;
+    background: url("image/por-black.jpg") no-repeat fixed;
     background-size: 1700px 700px ;
     background-position: center;
 }
