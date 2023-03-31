@@ -84,7 +84,7 @@ a:visited {
      gap: 1rem; /*declara duas propriedades para separar linhas*/
     flex-direction: column;
     text-align: center;
-    background-image: url(../image/por-do-sol.jpg) no-repeat fixed;
+    background-image: url(image/por-do-sol.jpg) no-repeat fixed;
     background-size: cover;
     background-position: center;
 }
@@ -299,7 +299,7 @@ a:visited {
 .valor {    
     padding-top: 7%;
     min-height: 90vh;
-    background-image: url(../image/por-black.jpg) no-repeat fixed;
+    background-image: url(image/por-black.jpg) no-repeat fixed;
     background-size: 1700px 700px ;
     background-position: center;
 }
